@@ -1,5 +1,7 @@
 # RideBoard
 
+This is old, see [Rideboard](https://github.com/ComputerScienceHouse/rideboard)
+
 RideBoard is CSH service that allows the members to carpool, allowing those that do not have a car to participate in events.
 
 [![Build Status](https://travis-ci.org/ag-ayush/rideboard.svg?branch=master)](https://travis-ci.org/ag-ayush/rideboard)
